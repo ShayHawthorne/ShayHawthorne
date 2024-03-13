@@ -1,4 +1,4 @@
-### Hi there 👋
+### Currently learning front-end web development and will go from there :)
 
 <!--
 **ShayHawthorne/ShayHawthorne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
