@@ -1,12 +1,4 @@
-## Hey, I'm Shay! I'm currently exploring front-end web development and finding my niche.
-### So far, I've found that I enjoy...
-  - UX/UI, especially the how & why. It's fascinating to me how the smallest changes can have drastic effects on user behavior.
-  - Graphic design & editing is something I've always found enjoyable.
-  - Data Analysis & Visualization. Sorting chunks of raw data, seeing the patterns, and displaying findings in a meaningful way for others is satisfying.
-  - Problem solving & troubleshooting. I find it energizing to noodle through issues in search of possible solutions.
-  - Programming & scripts. This has been a challenge to me so far but it's a skill I consider important to learn.
-
-### There is not much to show on this lil hub yet but I am working on setting up a website with projects and contact info in the coming weeks ^^
+## Hey, I'm Shay! I'm a software engineer and I'm getting this github set up!
 
 <!--
 **ShayHawthorne/ShayHawthorne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
