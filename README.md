@@ -27,24 +27,16 @@
 <p align="center">Under construction. Projects soon!</p>
 
 
-
 <h2 align="center">Technology</h3>
 
-
 <p align="center"> 
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML5-indigo?style=plastic&logo=html5&logoSize=auto&label=%7C&labelColor=333333&color=indigo">
-<img alt="Static Badge" src="https://img.shields.io/badge/CSS-indigo?style=plastic&logo=css3&logoSize=auto&label=%7C&labelColor=333333&color=indigo">
-<img alt="Static Badge" src="https://img.shields.io/badge/Javascript-indigo?style=plastic&logo=javascript&logoSize=auto&label=%7C&labelColor=333333&color=indigo">
-<img alt="Static Badge" src="https://img.shields.io/badge/Figma-indigo?style=plastic&logo=figma&logoSize=auto&label=%7C&labelColor=333333&color=indigo">
-<img alt="Static Badge" src="https://custom-icon-badges.demolab.com/badge/Bash-indigo?style=plastic&logo=bash&logoSize=auto&label=%7C&labelColor=333333&color=indigo">
-<img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-indigo?style=plastic&logo=postgresql&logoColor=fff&logoSize=auto&label=%7C&labelColor=333333&color=indigo">
-<img alt="Static Badge" src="https://img.shields.io/badge/Linux-indigo?style=plastic&logo=linux&logoSize=auto&label=%7C&labelColor=333333&color=indigo">
-<img alt="Static Badge" src="https://img.shields.io/badge/Git-indigo?style=plastic&logo=git&logoSize=auto&label=%7C&labelColor=333333&color=indigo">
-
-
-
-
-
-  
-  </p>
+  <img alt="HTLM5" src="https://img.shields.io/badge/HTML5-indigo?style=plastic&logo=html5&logoSize=auto&label=%7C&labelColor=333333&color=indigo">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-indigo?style=plastic&logo=css3&logoSize=auto&label=%7C&labelColor=333333&color=indigo">
+  <img alt="Javascript" src="https://img.shields.io/badge/Javascript-indigo?style=plastic&logo=javascript&logoSize=auto&label=%7C&labelColor=333333&color=indigo">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-indigo?style=plastic&logo=figma&logoSize=auto&label=%7C&labelColor=333333&color=indigo">
+  <img alt="Bash" src="https://custom-icon-badges.demolab.com/badge/Bash-indigo?style=plastic&logo=bash&logoSize=auto&label=%7C&labelColor=333333&color=indigo">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-indigo?style=plastic&logo=postgresql&logoColor=fff&logoSize=auto&label=%7C&labelColor=333333&color=indigo">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-indigo?style=plastic&logo=linux&logoSize=auto&label=%7C&labelColor=333333&color=indigo">
+  <img alt="Git" src="https://img.shields.io/badge/Git-indigo?style=plastic&logo=git&logoSize=auto&label=%7C&labelColor=333333&color=indigo">
+</p>
 
